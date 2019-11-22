@@ -4,7 +4,7 @@ redirect_from: "/"
 
 
 # InfoLab Projects Hub
-- http://infoLab.kunsan.ac.kr
+- [http://infoLab.kunsan.ac.kr](http://infoLab.kunsan.ac.kr)
 - Advisor : Kwang Woo Nam
 
 ## PostGeoMedia
