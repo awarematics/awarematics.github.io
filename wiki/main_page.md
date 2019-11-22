@@ -9,8 +9,8 @@ redirect_from: "/"
 
 ## PostGeoMedia
 - Wei Ding, Yong Hee Jung
-- url : http://postgeomedia.u-gis.net
-- github : https://github.com/awarematics/mgeometry
+- url : [http://postgeomedia.u-gis.net](http://postgeomedia.u-gis.net)
+- github : [https://github.com/awarematics/mgeometry](https://github.com/awarematics/mgeometry)
 
 ## DeepDBSCAN : Density Clustering with Deep Condition
 - Jang You Park
